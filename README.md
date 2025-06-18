@@ -1,12 +1,12 @@
 # Heart_Disease_Predictor
 The Heart Disease Predictor is a machine learning-powered web application built using Python and Streamlit. It helps users assess the risk of heart disease based on various clinical parameters. This tool is designed for educational and diagnostic support purposes and can be used by healthcare students, professionals, and individuals seeking early risk insights.
 
-🚀 Features
-🧍 Single Prediction: Enter details of one individual and get an instant prediction.
+# Features
+* Single Prediction: Enter details of one individual and get an instant prediction.
 
-📂 Bulk Prediction: Upload a CSV file with multiple records to get batch predictions.
+* Bulk Prediction: Upload a CSV file with multiple records to get batch predictions.
 
-📊 Model Information: Visual explanations, feature importance charts, and performance comparison of different ML models (e.g., Logistic Regression, Random Forest).
+* Model Information: Visual explanations, feature importance charts, and performance comparison of different ML models (e.g., Logistic Regression, Random Forest).
 
 #🩺 Input Parameters & Descriptions
 | **Parameter** | **Description**                                                                                           |
@@ -38,4 +38,4 @@ Matplotlib, Seaborn (for visualizations)
 git clone https://github.com/your-username/heart-disease-predictor.git
 cd heart-disease-predictor
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app1.py
