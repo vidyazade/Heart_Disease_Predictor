@@ -26,14 +26,14 @@ The Heart Disease Predictor is a machine learning-powered web application built 
 | `ca`          | Number of major vessels (0–3) colored by fluoroscopy.                                                     |
 | `thal`        | Thalassemia:<br>1 = Normal<br>2 = Fixed defect<br>3 = Reversible defect                                   |
 
-#🛠️ Tech Stack
-Python
+# Tech Stack
+* Python
 
-Streamlit (for the frontend)
+* Streamlit (for the frontend)
 
-Pandas, NumPy, Scikit-learn (for model training and data handling)
+* Pandas, NumPy, Scikit-learn (for model training and data handling)
 
-Matplotlib, Seaborn (for visualizations)
+* Plotly (for visualizations)
 
 # How to run locally
 git clone https://github.com/your-username/heart-disease-predictor.git
