@@ -8,7 +8,8 @@ The Heart Disease Predictor is a machine learning-powered web application built 
 
 * Model Information: Visual explanations, feature importance charts, and performance comparison of different ML models (e.g., Logistic Regression, Random Forest).
 
-#🩺 Input Parameters & Descriptions
+# Input Parameters & Descriptions
+
 | **Parameter** | **Description**                                                                                           |
 | ------------- | --------------------------------------------------------------------------------------------------------- |
 | `age`         | Age of the individual (in years).                                                                         |
